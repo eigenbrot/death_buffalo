@@ -10,6 +10,7 @@ baseurl: ''
 author:
   name: 'Death Buffalo'
   email: deathbuffaloband@gmail.com
+  facebook_username: DeathBuffaloBand
 
 defaults:
   -
